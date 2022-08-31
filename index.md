@@ -21,6 +21,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+_**I like spaghetti!**_
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
